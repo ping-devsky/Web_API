@@ -1,0 +1,142 @@
+{
+  "salarydata": [
+    {
+      "employee_id": 1,
+      "basic_salary": 32000,
+      "hra": 1000,
+      "pf": 800
+    },
+    {
+      "employee_id": 2,
+      "basic_salary": 22000,
+      "hra": 1200,
+      "pf": 800
+    },
+    {
+      "employee_id": 3,
+      "basic_salary": 20000,
+      "hra": 1500,
+      "pf": 500
+    },
+    {
+      "employee_id": 4,
+      "basic_salary": 10000,
+      "hra": 500,
+      "pf": 300
+    },
+    {
+      "employee_id": 5,
+      "basic_salary": 12000,
+      "hra": 1200,
+      "pf": 300
+    },
+    {
+      "employee_id": 6,
+      "basic_salary": 6000,
+      "hra": 600,
+      "pf": 100
+    },
+    {
+      "employee_id": 7,
+      "basic_salary": 20000,
+      "hra": 1000,
+      "pf": 800
+    },
+    {
+      "employee_id": 8,
+      "basic_salary": 33000,
+      "hra": 1300,
+      "pf": 1000
+    },
+    {
+      "employee_id": 9,
+      "basic_salary": 30000,
+      "hra": 1000,
+      "pf": 900
+    },
+    {
+      "employee_id": 10,
+      "basic_salary": 34000,
+      "hra": 1800,
+      "pf": 1200
+    },
+    {
+      "employee_id": 11,
+      "basic_salary": 8000,
+      "hra": 500,
+      "pf": 100
+    },
+    {
+      "employee_id": 13,
+      "basic_salary": 52000,
+      "hra": 2000,
+      "pf": 1000
+    },
+    {
+      "employee_id": 14,
+      "basic_salary": 5000,
+      "hra": 200,
+      "pf": 100
+    },
+    {
+      "employee_id": 15,
+      "basic_salary": 32000,
+      "hra": 1000,
+      "pf": 800
+    },
+    {
+      "employee_id": 16,
+      "basic_salary": 18000,
+      "hra": 1000,
+      "pf": 800
+    },
+    {
+      "employee_id": 17,
+      "basic_salary": 19000,
+      "hra": 1100,
+      "pf": 900
+    },
+    {
+      "employee_id": 18,
+      "basic_salary": 15000,
+      "hra": 900,
+      "pf": 300
+    },
+    {
+      "employee_id": 19,
+      "basic_salary": 17000,
+      "hra": 900,
+      "pf": 400
+    },
+    {
+      "employee_id": 20,
+      "basic_salary": 22000,
+      "hra": 1000,
+      "pf": 500
+    },
+    {
+      "employee_id": 21,
+      "basic_salary": 23000,
+      "hra": 1500,
+      "pf": 500
+    },
+    {
+      "employee_id": 22,
+      "basic_salary": 12000,
+      "hra": 600,
+      "pf": 100
+    },
+    {
+      "employee_id": 23,
+      "basic_salary": 12000,
+      "hra": 1200,
+      "pf": 300
+    },
+    {
+      "employee_id": 24,
+      "basic_salary": 6000,
+      "hra": 600,
+      "pf": 100
+    }
+  ]
+}

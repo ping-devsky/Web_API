@@ -1,0 +1,124 @@
+{
+  "leavedata": [
+    {
+      "emp_id": 1,
+      "total_leaves": 20,
+      "taken_leaves": 1
+    },
+    {
+      "emp_id": 2,
+      "total_leaves": 11,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 3,
+      "total_leaves": 20,
+      "taken_leaves": 9
+    },
+    {
+      "emp_id": 4,
+      "total_leaves": 18,
+      "taken_leaves": 6
+    },
+    {
+      "emp_id": 5,
+      "total_leaves": 20,
+      "taken_leaves": 6
+    },
+    {
+      "emp_id": 6,
+      "total_leaves": 20,
+      "taken_leaves": 6
+    },
+    {
+      "emp_id": 7,
+      "total_leaves": 11,
+      "taken_leaves": 2
+    },
+    {
+      "emp_id": 8,
+      "total_leaves": 13,
+      "taken_leaves": 6
+    },
+    {
+      "emp_id": 9,
+      "total_leaves": 24,
+      "taken_leaves": 10
+    },
+    {
+      "emp_id": 10,
+      "total_leaves": 10,
+      "taken_leaves": 0
+    },
+    {
+      "emp_id": 11,
+      "total_leaves": 12,
+      "taken_leaves": 10
+    },
+    {
+      "emp_id": 12,
+      "total_leaves": 10,
+      "taken_leaves": 0
+    },
+    {
+      "emp_id": 13,
+      "total_leaves": 28,
+      "taken_leaves": 10
+    },
+    {
+      "emp_id": 14,
+      "total_leaves": 18,
+      "taken_leaves": 10
+    },
+    {
+      "emp_id": 15,
+      "total_leaves": 10,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 16,
+      "total_leaves": 14,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 17,
+      "total_leaves": 24,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 18,
+      "total_leaves": 3,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 19,
+      "total_leaves": 4,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 20,
+      "total_leaves": 14,
+      "taken_leaves": 3
+    },
+    {
+      "emp_id": 21,
+      "total_leaves": 15,
+      "taken_leaves": 5
+    },
+    {
+      "emp_id": 22,
+      "total_leaves": 20,
+      "taken_leaves": 5
+    },
+    {
+      "emp_id": 23,
+      "total_leaves": 20,
+      "taken_leaves": 5
+    },
+    {
+      "emp_id": 24,
+      "total_leaves": 20,
+      "taken_leaves": 5
+    }
+  ]
+}
